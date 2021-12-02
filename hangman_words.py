@@ -1,0 +1,1 @@
+word_list = ['favorite','words','coding','father','mother','brother', 'sister', 'family', 'house','cat','dog','mouse','bird']
